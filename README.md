@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- I am a data editor and data manager in @pangaea-data-publisher
+- ata editing, training and user support, see our [Workshops](https://github.com/pangaea-data-publisher/community-workshop-material)
+
+
 <!--
 **Danapit/Danapit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
