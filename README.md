@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- I am a data editor and data manager in @pangaea-data-publisher
-- ata editing, training and user support, see our [Workshops](https://github.com/pangaea-data-publisher/community-workshop-material)
+- I am a data editor and data manager in [PANGAEA Data Publisher for Earth & Environmental Science](https://github.com/pangaea-data-publisher) at [Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research](https://www.awi.de)
+- data editing, training and user support, see our [Workshops](https://github.com/pangaea-data-publisher/community-workshop-material)
 
 
 <!--
